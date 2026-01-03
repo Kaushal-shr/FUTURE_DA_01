@@ -1,52 +1,34 @@
 # FUTURE_DA_01 – Superstore Sales Analysis
 
 ## 📌 Project Overview
-This project analyzes Superstore sales data using Power BI to identify sales trends, best-selling products, and regional performance. The dashboard is designed to support business decision-making through interactive visualizations.
-
----
-
-## 📂 Dataset
-- Dataset: Superstore Sales Dataset  
-- Format: Excel / CSV  
-- Data includes orders, sales, profit, categories, regions, and shipping details.
+This project analyzes Superstore sales data to understand sales performance, profit trends, and customer behavior.  
+The analysis was completed using **Power BI** with the goal of helping business stakeholders make data-driven decisions.
 
 ---
 
 ## 🎯 Objectives
-- Identify top-performing products and sub-categories  
-- Analyze monthly and yearly sales trends  
-- Compare sales performance across regions and categories  
-- Understand basic purchasing behavior patterns  
+- Identify best-selling products and categories
+- Analyze monthly and yearly sales trends
+- Understand customer behavior and segment performance
+- Evaluate profit contribution across regions
 
 ---
 
 ## 🛠 Tools Used
-- Power BI Desktop  
-- Microsoft Excel  
+- Power BI Desktop
+- Microsoft Excel
 
 ---
 
-## 📊 Dashboard Features
-- KPIs: Total Sales, Orders, Quantity, Average Order Value, Profit  
-- Sales trend analysis by month  
-- Category-wise and region-wise sales comparison  
-- Interactive filters for Year, Region, and Category  
+## 📊 Key Insights
+- Sales peak during specific months, indicating seasonal demand
+- Certain product categories drive higher revenue but lower profit margins
+- Consumer segment contributes the highest number of orders
+- Regional performance varies significantly across markets
 
 ---
 
-## 📈 Key Insights
-- Technology category contributes the highest sales  
-- West region generates the most revenue  
-- Sales show an increasing trend toward year-end  
+## 📁 Repository Structure
 
----
 
-## 📁 Repository Contents
-- `/Dashboard` – Power BI dashboard file (.pbix)  
-- `/Images` – Dashboard screenshots  
-- README.md – Project documentation  
 
----
-
-## ✅ Status
-Completed as part of a data analyst learning journey and internship task.
